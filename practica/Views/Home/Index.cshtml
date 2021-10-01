@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+}
+@model practica.Models.CargarEmpleado
+<form  asp-controller="Home" asp-action="Formulario" method="post">
+    <p>Nombre:<input id="Text1" name="nombre" type="text" /></p>
+    <br>
+    <p>Apellido:<input id="Text1" name="apellido" type="text" /></p>
+    <br>
+    <p>anio de nacimiento:<input id="Text1" name="anio_nac" type="date" /></p>
+    <br>
+    <p>Anio de ingreso:<input id="Text1" name="anio_ing" type="date" /></p>
+    <br>
+    <p>Salario:<input id="Text1" name="salario" type="number" /></p>
+    <input id="Submit1" type="submit" value="submit" />
+</form>

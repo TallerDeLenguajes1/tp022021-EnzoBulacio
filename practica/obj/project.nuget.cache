@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMvDiAykwqazBuXvbsmtHaoagz/oE6OJ0QXC1szsOOHavPtkcEyH849b53fMJPdiq2wh9aeOwFC8DX6U3bhLbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Enzo\\source\\repos\\practica\\practica\\practica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
